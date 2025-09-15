@@ -97,9 +97,10 @@
     <a target="_blank" href="mailto:suryaanshgm@gmail.com"><img src="https://img.shields.io/badge/-suryaanshgm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/invinxble/" target="_blank"><img src="https://img.shields.io/badge/-devxsuri-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://devxuri.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Projects-000000?style=flat&logo=vercel&logoColor=white"/></a>
+    <a href="https://linktr.ee/suryaanshmaithani" target="_blank"><img src="https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=linktree&logoColor=white"/></a>
     
 </div>
-
+<br>
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>

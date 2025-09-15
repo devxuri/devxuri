@@ -6,14 +6,14 @@
 <div align="center">
   <p>💬 Ask me about anything!</p>
 
-<!--- 👨‍💻 All of my projects are available at [devxuri](https://devxuri.github.io)-->
+<!--- 👨‍💻 All of my projects are available at [devxuri](https://devxuri.github.io)
+<p align="center">
+  <a href="https://linkedin.com/in/suryaansh-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suryaansh" height="30" width="40" /></a>
+</p>-->
 </div>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/suryaansh-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suryaansh" height="30" width="40" /></a>
-</p>
+
 
 <!--<
 <h3 align="center">Languages and Tools:</h3>
@@ -39,12 +39,67 @@
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devxuri&show_icons=true alt=devxuri /> </p>-->
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=devxuri&show_icons=true alt=devxuri /> </p>-->
 <p align="center">
     <a href="https://github.com/devxuri">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devxuri&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
+
+
+
+
+<div align="center">
+
+  ## Technical Skills
+  
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages  
+<a href="https://github.com/devxuri">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,postgres,html,css,scss,cs&perline=4" />  
+</div>
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+### Frameworks  
+<a href="https://github.com/devxuri">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=angular,react,spring,flask,unity&perline=4" />  
+</div>
+</a>
+
+</td>
+<td valign="top" width="33%">
+
+### Developer Tools  
+<a href="https://github.com/devxuri">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse&perline=4" />  
+</div>
+</a>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<h3 align="center">Links</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/suryaansh-m/" target="_blank"><img src="https://img.shields.io/badge/-Suryaansh%20Maithani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:suryaanshgm@gmail.com"><img src="https://img.shields.io/badge/-suryaanshgm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/invinxble/" target="_blank"><img src="https://img.shields.io/badge/-devxsuri-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://devxuri.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Projects-000000?style=flat&logo=vercel&logoColor=white"/></a>
+    
+</div>
+
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
